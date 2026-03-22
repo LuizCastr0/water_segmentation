@@ -1,0 +1,28 @@
+# Dados — não versionar (dataset de 11GB da competição)
+data/
+*.jpg
+*.png
+*.tif
+*.tiff
+
+# Modelos treinados
+*.pth
+*.pt
+*.pkl
+
+# Submissão
+submission_masks/
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+# Kaggle
+/kaggle/
