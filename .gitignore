@@ -1,5 +1,6 @@
 # Dados — não versionar (dataset de 11GB da competição)
 data/
+fase2/
 *.jpg
 *.png
 *.tif
